@@ -1,6 +1,6 @@
 class stackArr{
     int max;
-    int stack[];
+    int[] stack;
     int top = -1;
 
     public stackArr(int max){
